@@ -1,2 +1,2 @@
 ## Studying Spring Security - Stateless Authentication using JWT
-![image](https://github.com/user-attachments/assets/21852693-6c6b-4475-88ec-371413b21fdd)
+![architeture-draw](https://github.com/user-attachments/assets/fe8a9fb4-e5d1-4000-aebc-a2a47e5a9caf)
