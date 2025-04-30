@@ -1,4 +1,5 @@
 ## Studying Spring Security - Stateless Authentication using JWT
-![archicteture-draw](https://github.com/user-attachments/assets/ff528d39-aad1-4e9d-97a9-a1b60f08612f)
+![architecture-draw](https://github.com/user-attachments/assets/2b4f31d2-03d5-4cfa-a042-6fb847860528)
+
 
 ~Made using Excalidraw
