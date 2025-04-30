@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import lombok.AccessLevel;
 
 @Entity
-@Table(name = "tb_users")
+@Table(name = "users")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor(access = AccessLevel.PRIVATE)

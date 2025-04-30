@@ -79,6 +79,13 @@
 			<version>3.0.0</version>
 		</dependency>
 
+		<!-- Docs -->
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-ui</artifactId>
+			<version>1.7.0</version>
+		</dependency>
+
 
 		<!-- JWT -->
 		<dependency>
